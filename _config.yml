@@ -23,7 +23,7 @@ email: froghramar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Software engineer with more than five years of industry experience on C#, .NET and Azure
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://froghramar.com"
 github_username:  froghramar
 linkedin_username: froghramar
 
@@ -53,3 +53,6 @@ plugins:
 #   - vendor/ruby/
 
 google_analytics: G-JW0N65QXBE
+
+disqus:
+    shortname: froghramar
