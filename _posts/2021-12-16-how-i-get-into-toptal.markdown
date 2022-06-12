@@ -5,7 +5,6 @@ date:   2021-12-16 10:38:36 +0600
 categories: interviews
 ---
 
-# About Toptal
 Toptal is a freelancer website which claims to hire top 3% of the world's talents. Toptal talents have access to a wide range of jobs and clients mostly based on USA and Europe. Most of the jobs are fully remote which gives you full flexibility as a freelancer.
 
 # The Interview process
