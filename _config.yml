@@ -21,7 +21,7 @@
 title: Feroz Ahmmed
 email: froghramar@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Software engineer with more than five years of industry experience on C#, .NET and Azure
+  Top C#, .NET and Azure developer in Dhaka, Bangladesh
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://froghramar.com"
 github_username:  froghramar
@@ -32,7 +32,7 @@ logo: /logo.jpg
 theme: minima
 plugins:
   - jekyll-feed
-show_excerpts: true
+show_excerpts: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
