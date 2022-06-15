@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://froghramar.com"
 github_username:  froghramar
 linkedin_username: froghramar
+logo: /logo.jpg
 
 # Build settings
 theme: minima
