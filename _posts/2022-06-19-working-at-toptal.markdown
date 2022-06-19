@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is it like working at Toptal as a freelancer?"
+title:  "What is it like working at Toptal as a freelancer"
 date:   2022-06-19 12:38:36 +0600
 categories: job-experiences
 ---
