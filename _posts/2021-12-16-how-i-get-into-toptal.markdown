@@ -28,7 +28,7 @@ For the second problem, I had to clone a git repository again with everything al
 
 The interviewer congratulated me and I heard the magic words **"Welcome to Toptal!"**.
 
----------------------
+---
 
 Apply to Toptal with my referral code and we both get **500 USD** once you land your first job: [Apply here](https://www.toptal.com/qKJGyP/worlds-top-talent)
 
