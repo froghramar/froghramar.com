@@ -3,6 +3,9 @@ layout: post
 title:  "What is it like working at Toptal as a freelancer"
 date:   2022-06-19 12:38:36 +0600
 categories: job-experiences
+tags:
+    - toptal
+    - job-experience
 ---
 
 Toptal is a freelancer website which claims to hire top 3% of the world's talents. In this article I will share my experience working at Toptal as a freelancer. If you are looking to know about how to get into Toptal, please check my [other article](/interviews/2021/12/16/how-i-get-into-toptal.html).
