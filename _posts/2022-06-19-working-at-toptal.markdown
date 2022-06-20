@@ -38,6 +38,8 @@ When I was working for a local company, I had to pay income tax against my incom
 
 Although I can work remotely, I still need to find some overlaps with client work hours. I am based in a time zone which is 11-12 hours ahead of the USA. So I find it difficult sometimes to find overlaps. Most of the clients require 50% time overlap on average.
 
+Time zone difference is also a challenge for job search. Most of the jobs are posted during US work hours. I cannot apply to most of the daily job posts since I am mostly sleeping at that time. I can apply to those jobs the next morning, but the first few applicants are more likely to get selected due to the Toptal matching algorithm.
+
 ### Unpredictability of Work
 
 Most of the jobs I found on toptal, are short term and 3-6 months on average. Which means I need to search for new jobs very frequently. Even as I progress in my career, this unpredictability may never totally go away.
