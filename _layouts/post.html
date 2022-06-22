@@ -26,6 +26,10 @@ layout: default
       {%- endif -%}</p>
   </header>
 
+  {%- if page.bannerImage -%}
+    <img src="{{ page.bannerImage.src }}">
+  {%- endif -%}
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
