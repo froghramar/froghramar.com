@@ -27,6 +27,7 @@ url: "https://froghramar.com"
 github_username:  froghramar
 linkedin_username: froghramar
 logo: /logo.jpg
+rss: Subscribe
 
 # Build settings
 theme: minima
