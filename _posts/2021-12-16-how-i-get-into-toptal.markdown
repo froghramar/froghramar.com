@@ -3,8 +3,8 @@ layout: post
 title:  "How I get into toptal!"
 date:   2021-12-16 10:38:36 +0600
 categories: interviews
-bannerImage:
-    src: /assets/images/toptal-banner.png
+image:
+    path: /assets/images/toptal-banner.png
 tags:
     - toptal
     - interview
