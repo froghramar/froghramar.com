@@ -61,3 +61,7 @@ google_analytics: G-JW0N65QXBE
 
 disqus:
     shortname: froghramar
+
+header_external_links:
+  - title: About
+    link: https://feroz.dev

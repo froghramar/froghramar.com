@@ -1,0 +1,19 @@
+<header class="site-header" role="banner">
+
+    <div class="wrapper">
+        {%- assign default_paths = site.pages | map: "path" -%}
+        <a class="site-title" rel="author" href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
+
+        {%- if site.header_external_links -%}
+        <nav class="site-nav">
+            <div class="trigger">
+                {%- for header_external_link in site.header_external_links -%}
+                <a class="page-link" href="{{ header_external_link.link }}" target="_blank">
+                    {{ header_external_link.title | escape }} <span style="font-size: inherit;" class="material-icons">open_in_new</span>
+                </a>
+                {%- endfor -%}
+            </div>
+        </nav>
+        {%- endif -%}
+    </div>
+</header>
