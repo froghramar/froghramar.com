@@ -2,7 +2,7 @@
 
     <div class="wrapper">
         {%- assign default_paths = site.pages | map: "path" -%}
-        <a class="site-title" rel="author" href="{{ " /" | relative_url }}">{{ site.title | escape }}</a>
+        <a class="site-title" rel="author" href="/">{{ site.title | escape }}</a>
 
         {%- if site.header_external_links -%}
         <nav class="site-nav">
