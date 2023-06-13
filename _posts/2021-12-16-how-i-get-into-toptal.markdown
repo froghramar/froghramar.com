@@ -39,7 +39,7 @@ The interviewer congratulated me and I heard the magic words **"Welcome to Topta
 
 ---
 
-Apply to Toptal with my referral code and we both get **500 USD** once you land your first job: [Apply here](https://www.toptal.com/qKJGyP/worlds-top-talent)
+Apply to Toptal with my referral code and we both get **100 USD** once you land your first job: [Apply here](https://www.toptal.com/qKJGyP/worlds-top-talent)
 
 Find my toptal profile [here](https://www.toptal.com/resume/feroz-ahmmed).
 
