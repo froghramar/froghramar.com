@@ -4,7 +4,7 @@ title:  "How I get into toptal!"
 date:   2021-12-16 10:38:36 +0600
 categories: interviews
 image:
-    path: /assets/images/toptal-banner.png
+    path: /assets/images/journey-to-toptal.png
 tags:
     - toptal
     - interview
