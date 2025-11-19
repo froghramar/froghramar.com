@@ -6,7 +6,6 @@ categories: pet-projects
 image:
     path: /assets/images/relaxing-with-virtual-assistant.png
 tags:
-    - toptal
     - artificial intelligence
 ---
 
