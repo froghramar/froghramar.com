@@ -9,8 +9,6 @@ tags:
     - automation
 ---
 
-# Why I Built a JSON-Based Resume Generator (And Why You Should Too)
-
 Over the years, I've updated my resume dozens of times. Each update meant opening a Word document, adjusting formatting, ensuring consistency across sections, and then converting to PDF. It was tedious, error-prone, and frankly, not how a developer should manage structured data.
 
 So I built something better: a JSON-based resume generator that separates content from presentation, validates data automatically, and outputs beautiful HTML and PDF versions with a single command.
